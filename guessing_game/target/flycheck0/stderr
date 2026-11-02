@@ -1,4 +1,2 @@
     Checking guessing_game v0.1.0 (/home/ddoggen/practice_of_rust/guessing_game)
-error: could not compile `guessing_game` (bin "guessing_game") due to 2 previous errors
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `guessing_game` (bin "guessing_game" test) due to 2 previous errors
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.09s

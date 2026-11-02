@@ -1,11 +1,11 @@
-use std::io;
+use std::{io, string};
 
 fn main() {
     println!("Guess the number!");
 
-    printfln!("Please input your guess.");
+    println!("Please input your guess.");
 
-    let mut guess: Sting::new();
+    let mut guess = String::new();
 
     io::stdin()
         .read_line(&mut guess)
