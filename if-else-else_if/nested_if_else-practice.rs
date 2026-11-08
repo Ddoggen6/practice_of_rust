@@ -4,6 +4,7 @@ fn main() {
     let mut age_input = String::new();
     let mut height_input = String::new();
     let mut adult_input = String::new();
+    println!("Enter youre age, youre height and if its true or false that you are with an adult");
 
     io::stdin().read_line(&mut age_input).unwrap();
     io::stdin().read_line(&mut height_input).unwrap();
