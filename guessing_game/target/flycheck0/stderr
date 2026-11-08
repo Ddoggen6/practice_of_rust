@@ -1,2 +1,4 @@
-    Checking guessing_game v0.1.0 (/home/ddoggen/practice_of_rust/guessing_game)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.12s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.27s
