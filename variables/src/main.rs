@@ -11,4 +11,13 @@ fn main() {
     let float_y: f32 = 3.2; //f32 has single precision
     println!("The value of float_x is: {float_x}");
     println!("The value of float_x is: {float_y}");
+
+    //boleans
+    let t: bool = true;
+
+    let f: bool = false;
+
+    //char
+    let c = 'z';
+    let z: char = 'Z';
 }
