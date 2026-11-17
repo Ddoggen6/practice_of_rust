@@ -1,6 +1,10 @@
 use std::io;
 
 fn main() {
+    println!(
+        "Enter the numbers and the operation to make in this order: number1, number2 and the op."
+    );
+
     let mut n1_input = String::new();
     let mut n2_input = String::new();
     let mut op_input = String::new();
