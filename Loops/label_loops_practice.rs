@@ -11,7 +11,6 @@ fn main() {
 
     'outer: for i in 1..=n1 {
         for j in 1..=n2 {
-            // Your logic here
             if i + j > n1 && (i * j) % n2 == 0 {
                 println!("({i}, {j})");
                 break 'outer;
